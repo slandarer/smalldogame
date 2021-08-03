@@ -15,12 +15,11 @@
     border-width:1.2px;
     outline: none;
     cursor: pointer;
-    width:80px;
-    height:40px;
+    width:60px;
+    height:30px;
     text-align: center;
     font-size: 17px;
-    margin-left: 10px;
-    margin-left: 10px;
+    margin-left: 2px;
 
 }
 .level button.active{
@@ -33,10 +32,10 @@ table {
 }
 td {
     padding: 0;
-    width: 60px;
-    height:60px;
+    width: 45px;
+    height:45px;
     background: #ffffff;
-    border: 4px solid;
+    border: 2px solid;
     border-style: hidden;
 }
 .doga {
