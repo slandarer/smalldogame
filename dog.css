@@ -1,0 +1,47 @@
+#dog {
+    margin: 2px auto;
+}
+.level{
+    text-align: center;
+    margin-bottom: 5px;
+
+}
+.level button{
+    padding: 0px 0px;
+    background-color: #02a4ad;
+    border-color: #9be5ea;
+    color: #fff;
+    border-radius: 4px;
+    border-width:1px;
+    outline: none;
+    cursor: pointer;
+    width:50px;
+    height:25px;
+    text-align: center;
+    font-size: 12px;
+    margin-left: 2px;
+
+}
+.level button.active{
+    background-color: #0d8dd1;
+}
+table {
+    border-spacing: 74: #c1d6e8;
+    margin: 0 auto;
+}
+td {
+    padding: 0;
+    width: 40px;
+    height:40px;
+    background: #ffffff;
+    border: 4px solid;
+    border-style: hidden;
+}
+.doga {
+    background: #fcfbee url(https://img-blog.csdnimg.cn/a5f1379a8cc14d45891f65b0f91efd24.png) no-repeat center;
+    background-size: cover;
+}
+.dogb {
+    background: #def8fc url(https://img-blog.csdnimg.cn/02042b8619284fa0bd31fcb56c0722b3.png) no-repeat center;
+    background-size: cover;
+}
